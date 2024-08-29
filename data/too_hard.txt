@@ -1,0 +1,15 @@
+The average number of students per classroom, y, at Central High School can be estimated using the equation y = 0.8636x + 27.227, where x represents the number of years since 2004 and x ≤ 10. Which of the following statements is the best interpretation of the number 0.8636 in the context of this problem?
+Can every map be colored with just four colors so that no two adjacent regions have the same color?
+You’re on a game show with three doors. One hides a car, the others goats. After choosing a door, the host reveals a goat behind another door. Do you switch?
+What’s the shortest possible route that visits each city exactly once and returns to the origin?
+Can every simply connected, closed 3-manifold be homomorphic to the 3-sphere?
+Find a solution of f(x) = x^3+x−1 = 0 by iteration
+Given the data of Example 1.1 plus one more point: ln 9.0 = 2.1972,ln 9.5 = 2.2513,ln 11.0 = 2.3979, compute an approximate value of ln 9.2and obtain an error estimate
+Use the Euler method with step size h= 0.1to solve at x= 0.3. y'= sin xy, y(0) = 1
+Apply the improved Euler method to solve, choosing again h= 0.2. y'=x+y, y(0) = 0
+Apply the fourth order Runge-Kutta method to the IVP y'=x+y, y(0) = 0. Choose h= 0.2as before and compute five steps.
+Consider the IVP y'' =−y, y(0) = 0, y'(0) = 1.(32) Using h= 0.1,find an approximate value of y(0.2) to 3 decimal places
+A study shows that the average number of pens a university student brings to class is 1.75 and the standard deviation is 0.65. In a sample of 50 university students, find the probability that the mean number of pens brought to class is more than 2.
+Suppose the times required for bus 179 to start from Interchange and arrive at EEE form a normal distribution with a standard deviation of 0.5 minute. If a sample of 17 arrival times is selected at random, find the probability that the sample variance is greater than 0.5.
+Super big fish balls produced in a factory are supposed to average 4.445 cm in diameter. It is known that σ= 0.127 cm. A random sample of 900 super big fish balls from the production of a single machine gives x= 4.455 cm. Is the machine within acceptable adjustment? Use α= 0.05
+The average speed of cars travelling on Malaysian express ways is estimated to be 110 km/h. A random sample of 41 cars travelling on a Singapore express way, PIE, gives an average speed of 100 km/h and a standard deviation of 15 km/h. Can we say, at 2.5% significance level, that cars drive slower on PIE than on Malaysian express ways?

@@ -1,0 +1,50 @@
+A sequence of transformations is applied to the curve in the following order. Translation of 2 units in the negative y-direction. Reflection in the x-axis. Find the equation of the new curve and determine the coordinates of the point on the new curve corresponding to A. 
+A curve is such that dy/dx=3(4x+5)^1/2 It is given that the points (1, 9) and (5, a) lie on the curve. Find the value of a.
+It is given that the coefficient of x^3 in the expansion of (5-ax)(2+ax)^4 is 432. Find the value of the constant a.
+An arithmetic progression is such that its first term is 6 and its tenth term is 19.5. Find the sum of the first 100 terms of this arithmetic progression. 
+Use logarithms to solve the equation 3^(4x+3)=5^(2x+7). Give your answer correct to 3 significant figures.
+Find the set of values of the constant k for which the equation |3x-7|=k(x-4) has exactly two real roots.
+Find the quotient and remainder when x^4-3x^3+9x^2-12x+27 is divided by x^2+5.
+Find the coefficient of x^2 in the expansion of (2x-5)(4-x)^1/2.
+A particle is projected vertically upwards from horizontal ground. The speed of the particle 2 seconds after it is projected is 5 m/s and it is travelling downwards. Find the speed of projection of the particle. 
+A crate of mass 600 kg is being pulled up a line of greatest slope of a rough plane at a constant speed of 2 m/s by a rope attached to a winch. The plane is inclined at an angle of 30° to the horizontal and the rope is parallel to the plane. The winch is working at a constant rate of 8 kW. Find the coefficient of friction between the crate and the plane.
+Four coplanar forces act at a point. The magnitudes of the forces are F N, 2F N, 3F N and 30 N. The directions of the forces are as shown in the diagram. Given that the forces are in equilibrium, find the value of F and the value of i.
+Find the positive value of t at which the acceleration is zero. Hence find the total distance travelled between t=0 and this instant. 
+A bag contains 9 blue marbles and 3 red marbles. One marble is chosen at random from the bag. If this marble is blue, it is replaced back into the bag. If this marble is red, it is not returned to the bag. A second marble is now chosen at random from the bag. Find the probability that the first marble chosen is blue given that the second marble chosen is red.
+Sam is a member of a soccer club. She is practising scoring goals. The probability that Sam will score a goal on any attempt is 0.7, independently of all other attempts. Sam makes 10 attempts at scoring goals. Find the probability that Sam will score goals on fewer than 8 of these attempts.
+Wei is a member of the same soccer club. He is also practising scoring goals. The probability that Wei will score a goal on any attempt is 0.6, independently of all other attempts. Wei is going to keep making attempts until he scores 3 goals. Find the probability that he scores his third goal on his 7th attempt
+A company sells small and large bags of rice. The masses of the small bags of rice are normally distributed with mean 1.20 kg and standard deviation 0.16 kg. In a random sample of 500 of these small bags of rice, how many would you expect to have a mass greater than 1.26 kg? 
+The masses of the large bags of rice are normally distributed with mean 2.50 kg and standard deviation v kg. 20% of these large bags of rice have a mass less than 2.40 kg. Find the value of v. 
+A new village social club has 10 members of whom 6 are men and 4 are women. The club committee will consist of 5 members. In how many ways can the committee of 5 members be chosen if it must include at least 2 men and at least 1 woman? 
+A random sample of 250 people living in Barapet was chosen. It was found that 78 of these people owned a BETEC phone. Calculate an approximate 98% confidence interval for the proportion of people living in Barapet who own a BETEC phone.
+In a certain lottery, on average 1 in every 10 000 tickets is a prize-winning ticket. An agent sells 6000 tickets. Use a suitable approximating distribution to find the probability that at least 3 of the tickets sold by the agent are prize-winning tickets.
+Expand (1 + 3x)^6 in ascending powers of x up to, and including, the term in x^2.
+It is given that x is an acute angle in degrees such that sin x = 2/3. Find the exact value of sinx + 60
+Solve the equation |3x − 5| = 2x + 7
+A particle of mass 1.6 kg is projected with a speed of 20 m/s up a line of greatest slope of a smooth plane inclined at a to the horizontal, where tan a = 3/4. Use an energy method to find the distance the particle moves up the plane before coming to instantaneous rest. 
+Express 3y^2-12y-15 in the form 3(y+a)^2+b, where a and b are constants
+The coefficient of x^3 in the expansion of (3+ax)^6 is 160. Find the value of the constant a. 
+The first three terms of an arithmetic progression are 25, 4p-1 and 13-p, where p is a constant. Find the value of the tenth term of the progression.
+The first three terms of a geometric progression are 25, 4q-1 and 13-q, where q is a positive constant. Find the sum to infinity of the progression.
+The curve y=x^2 is transformed to the curve y=4(x-3)^2 - 8. Describe fully a sequence of transformations that have been combined, making clear the order in which the transformations have been applied. 
+The curve with equation y=2x-8x^1/2 has a minimum point at A and intersects the positive x-axis at B. Find the coordinates of A and B. 
+A curve has equation x^2lny+y^2+4x=9. Find the gradient of the curve at the point (2, 1). 
+Solve the inequality |3x-8|<5-x.
+A car starts from rest and accelerates at 2 m/s^2 for 10 s. It then travels at a constant speed for 30 s. The car then uniformly decelerates to rest over a period of 20 s. Find the total distance travelled by the car. 
+Two forces of magnitudes 20 N and F N act at a point P in the directions shown in the diagram. Given that the resultant force has no component in the y-direction, calculate the value of F.
+A particle P of mass 0.2 kg is projected vertically upwards from horizontal ground with speed 25 m/s. Show that the speed of P when it reaches 20 m above the ground is 15m/s.
+Two particles P and Q of masses 0.2 kg and 0.5 kg respectively are at rest on a smooth horizontal plane. Particle P is projected with a speed 6m/s directly towards Q. After P and Q collide, P moves with a speed of 1m/s. Find the two possible speeds of Q after the collision.
+A cyclist and bicycle have a total mass of 72 kg. The cyclist rides along a horizontal road against a total resistance force of 28 N. Find the total work done by the cyclist to increase his speed from 8m/s to 16m/s while travelling a distance of 100 metres. 
+The lengths of the tails of adult raccoons of a certain species are normally distributed with mean 28 cm and standard deviation 3.3 cm. Find the probability that a randomly chosen adult raccoon of this species has a tail length between 23 cm and 35 cm.
+The interquartile range is R cm. Show that R is not greater than 15.
+In a certain area in the Arctic the probability that it snows on any given day is 0.7, independent of all other days. Find the probability that in a week (7 days) it snows on at least five days.
+The eight digits 1, 2, 2, 3, 4, 4, 4, 5 are arranged in a line. How many different arrangements are there of these 8 digits?
+Three digits are selected at random from the eight digits 1, 2, 2, 3, 4, 4, 4, 5. Find the probability that the three digits are all different.
+A random sample of 8 boxes of cereal from a certain supplier was taken. Each box was weighed and the masses in grams were as follows. 261 249 259 252 255 256 258 254. Find unbiased estimates of the population mean and variance. 
+A random variable X has the distribution Po(145). Use a suitable approximating distribution to calculate P(X<=150).
+The random variable X has the distribution B(4000, 0.001). Use a suitable approximating distribution to find P(2<X<5).
+The numbers on the faces of a fair six-sided dice are 1, 2, 2, 3, 3, 3. The random variable X is the total score when the dice is rolled twice. Find the value of Var(X).
+In a certain country, the heights of the adult population are normally distributed with mean 1.64 m and standard deviation 0.25 m. Find the probability that an adult chosen at random from this country will have height greater than 1.93 m. 
+Salah decides to attempt the crossword puzzle in his newspaper each day. The probability that he will complete the puzzle on any given day is 0.65, independent of other days. Find the probability that Salah completes the puzzle for the first time on the 5th day.
+How many different arrangements are there of the 9 letters in the word RECORDERS?
+How many different arrangements are there of the 9 letters in the word RECORDERS in which there is an E at the beginning, an E at the end and the three Rs are not all together? 

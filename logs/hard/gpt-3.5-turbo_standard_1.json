@@ -1,0 +1,56 @@
+[
+    {
+        "index": 1,
+        "result": [
+            "First, we can integrate dy/dx to find the equation of the curve:\n\n\u222bdy = \u222b3(4x+5)^(1/2) dx\n\ny = 2(4x+5)^(3/2) + c, where c is the constant of integration.\n\nWe know that the point (1, 9) lies on the curve. Substituting x = 1 and y = 9 into the equation, we get:\n\n9 = 2(4*1+5)^(3/2) + c\n9 = 2*27 + c\nc = -45\n\nSo the equation of the curve is y = 2(4x+5)^(3/2) - 45.\n\nNow we substitute x = 5 into this equation to find the corresponding y-value, which is a:\n\na = 2(4*5+5)^(3/2) - 45\na = 2*135 - 45\na = 225\n\nSo, the value of a is 225."
+        ]
+    },
+    {
+        "index": 2,
+        "result": [
+            "The coefficient of x\u00b3 in the expansion of (5-ax)(2+ax)\u2074 can be obtained by considering the terms (5)(2+ax)\u00b3(-ax) from the first and last factors, and (-ax)(2+ax)\u2074 from the second and last factors. \n\nFirst term: (5)(2+ax)\u00b3(-ax) = -5ax(8+12ax+6a\u00b2x\u00b2+a\u00b3x\u00b3) = -40ax -60a\u00b2x\u00b2 -5a\u00b3x\u00b3 \n\nSecond term: (-ax)(2+ax)\u2074 = -ax(16+32ax+24a\u00b2x\u00b2+8a\u00b3x\u00b3+a\u2074x\u2074) = -16ax -32a\u00b2x\u00b2 -24a\u00b3x\u00b3 -8a\u2074x\u2074\n\nThe x\u00b3 term is -5a\u00b3 -24a\u00b3 = -29a\u00b3, and we are given that this is equal to 432. \n\nSo we have -29a\u00b3 = 432, and solving for a we get a = -3."
+        ]
+    },
+    {
+        "index": 3,
+        "result": [
+            "An arithmetic progression is a sequence of numbers in which the difference of any two successive members is a constant. \n\nThe formula for the nth term of an arithmetic progression is: a + (n - 1)d, where a is the first term and d is the common difference. \n\nSubstituting the given values into this formula, we have: \n\n19.5 = 6 + (10 - 1)d\n19.5 = 6 + 9d\n9d = 19.5 - 6\n9d = 13.5\nd = 13.5 / 9\nd = 1.5\n\nSo, the common difference of the arithmetic progression is 1.5.\n\nThe sum S of the first n terms of an arithmetic progression can be found using the formula: S = n/2 * (2a + (n - 1)d).\n\nSubstituting n = 100, a = 6, and d = 1.5 into this formula, we get:\n\nS = 100/2 * (2*6 + (100 - 1)*1.5)\nS = 50 * (12 + 99*1.5)\nS = 50 * (12 + 148.5)\nS = 50 * 160.5\nS = 8025.\n\nSo, the sum of the first 100 terms of this arithmetic progression is 8025."
+        ]
+    },
+    {
+        "index": 4,
+        "result": [
+            "To solve the equation 3^(4x+3)=5^(2x+7) using logarithms, you will need to take the natural log (ln) of both sides and use the properties of logarithms to simplify the equation.\n\nStart by taking the natural log of both sides:\n\nln(3^(4x+3)) = ln(5^(2x+7))\n\nThen, use the property of logarithms that allows you to move the exponent to the front of the log:\n\n(4x+3)ln(3) = (2x+7)ln(5)\n\nNow, distribute the ln(3) and ln(5) on both sides:\n\n4x*ln(3) + 3ln(3) = 2x*ln(5) + 7ln(5)\n\nRearrange the equation to get the terms with x on one side:\n\n4x*ln(3) - 2x*ln(5) = 7ln(5) - 3ln(3)\n\nFactor out the x:\n\nx(4ln(3) - 2ln(5)) = 7ln(5) - 3ln(3)\n\nFinally, solve for x by dividing both sides by (4ln(3) - 2ln(5)):\n\nx = (7ln(5) - 3ln(3)) / (4ln(3) - 2ln(5))\n\nUsing a calculator, this simplifies to approximately x = -0.853."
+        ]
+    },
+    {
+        "index": 5,
+        "result": [
+            "The equation |3x-7|=k(x-4) has two cases, 3x-7=k(x-4) or 3x-7=-k(x-4).\n\nFor the first case, simplifying gives 3x-7=kx-4k. Solving for x gives x=7/(3-k) if k \u2260 3.\n\nFor the second case, simplifying gives 3x-7=-kx+4k. Solving for x gives x=7/(3+k) if k \u2260 -3.\n\nThe equation |3x-7|=k(x-4) has exactly two real roots when the two roots from the two cases are distinct, which requires that 7/(3-k) \u2260 7/(3+k). \n\nCross-multiplying gives 21+7k \u2260 21-7k, which simplifies to 14k \u2260 0. So, the equation has exactly two real roots when k \u2260 0.\n\nTherefore, the set of values of the constant k for which the equation |3x-7|=k(x-4) has exactly two real roots is all real numbers except -3, 0, and 3."
+        ]
+    },
+    {
+        "index": 6,
+        "result": [
+            "The quotient is x^2 - 3x + 4 and the remainder is 47x - 13."
+        ]
+    },
+    {
+        "index": 7,
+        "result": [
+            "The coefficient of x^2 in the expansion of (2x-5)(4-x)^1/2 can be found using the Binomial Theorem and the formula for the coefficient of x^n in the expansion of (a + b)^n, which is n!/k!(n-k)! * a^(n-k) * b^k, where n is the degree of the polynomial, k is the position of the term, a is the coefficient of the first term, and b is the coefficient of the second term.\n\nIn this case, a = 2x, b = -5, n = 1/2, and we want to find the coefficient of x^2 (k = 2).\n\nHowever, since n < k, there is no x^2 term in the expansion and therefore the coefficient of x^2 is 0."
+        ]
+    },
+    {
+        "index": 8,
+        "result": [
+            "Let's denote the speed of projection as u, and let's denote the acceleration due to gravity as g (which is approximately 9.8 m/s\u00b2, but let's keep it as g for now for simplicity).\n\nWhen the particle is projected upwards, it will decelerate under the force of gravity. Therefore, after t seconds, its velocity v will be given by the equation:\n\nv = u - gt\n\nIn this case, we know that the velocity 2 seconds after projection is -5 m/s (negative because it is travelling downwards), so we have:\n\n-5 = u - 2g\n\nRearranging this equation for u, we get:\n\nu = -5 + 2g\n\nSubstitute g = 9.8 m/s\u00b2 into this equation, we get:\n\nu = -5 + 2*9.8 = 14.6 m/s\n\nSo, the speed of projection of the particle is 14.6 m/s."
+        ]
+    },
+    {
+        "index": 9,
+        "result": [
+            "We start by calculating the force of gravity acting on the crate down the plane. This can be found using the formula:\n\nF_gravity = m*g*sin(\u03b8),\n\nwhere m is the mass of the crate, g is the acceleration due to gravity, and \u03b8 is the angle of the plane to the horizontal. Substituting the given values:\n\nF_gravity = 600 kg * 9.81 m/s^2 * sin(30\u00b0) = 2943 N.\n\nNext, we calculate the power being used to pull the crate up the plane. Power (P) is the rate at which work is done and is given by the formula:\n\nP = F*v,\n\nwhere F is the force required to pull the crate up the plane and v is the speed at which the crate is moving. Rearranging for F gives:\n\nF = P/v = 8000 W / 2 m/s = 4000 N.\n\nThe force of friction (F_friction) is the difference between the force being applied to pull the crate up the plane and the force of gravity acting on the crate down the plane:\n\nF_friction = F - F_gravity = 4000 N - 2943 N = 1057 N.\n\nFinally, we find the coefficient of friction (\u03bc) using the formula:\n\nF_friction = \u03bc*m*g*cos(\u03b8),\n\nRearranging for \u03bc gives:\n\n\u03bc = F_friction / (m*g*cos(\u03b8)) = 1057 N / (600 kg * 9.81 m/s^2 * cos(30\u00b0)) = 0.19."
+        ]
+    }
+]
